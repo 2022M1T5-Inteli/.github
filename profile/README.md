@@ -12,19 +12,19 @@ Estudantes e jovens em geral.
 ## 🎮 Os jogos:
 
 - Grupo 1 - Before Symptoms - Jogo "Health is a game":
-  - Link para jogar: em processo de liberação.
+  - Link para jogar: https://intelihub.itch.io/health-is-a-game
   - Link do repositório: https://github.com/2022M1T5/Health-is-a-game
 
 - Grupo 2 - BioCoding - Jogo "HealthynesSon":
-  - Link para jogar: em processo de liberação.
+  - Link para jogar: https://intelihub.itch.io/healthynes-son
   - Link do repositório: https://github.com/2022M1T5/Healthynes-son
 
 - Grupo 3 - Colossus-MK1 - Jogo "Probody":
-  - Link para jogar: em processo de liberação.
+  - Link para jogar: https://intelihub.itch.io/probody
   - Link do repositório: https://github.com/2022M1T5/Probody
 
 - Grupo 4 - 4Life Dv Team - Jogo "Back 2 Life: The Second":
-  - Link para jogar: em processo de liberação.
+  - Link para jogar: não suportado.
   - Link do repositório: https://github.com/2022M1T5/Back-2-Life-The-Second
 
 - Grupo 5 - Oncode - Jogo "Cell's Journey":
